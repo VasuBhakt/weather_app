@@ -1,18 +1,17 @@
-# weather_app
+🌤️ Weather App
 
-A **Flutter Weather App** that fetches current weather and 3-hour interval forecasts for multiple cities using the OpenWeatherMap API. The app displays  information including temperature, sky condition, humidity, wind speed, and "feels like" temperature. Users can select cities from a dropdown and refresh data on demand.
+A Flutter Weather App that fetches real-time weather and 3-hour interval forecasts using the OpenWeatherMap API. Users can select from multiple Indian metro cities and view detailed weather insights including temperature, sky conditions, humidity, wind speed, and “feels like” temperature.
 
 ---
 
-## Features
+## ✨ Features
 
-* Fetch **current weather** and **forecast for the next 6 intervals** (3-hourly) for any selected city out of Kolkata, Mumbai, Delhi, Bengaluru and Chennai.
-* Support for **multiple cities** via a dropdown menu.
-* Automatically filters out **past forecasts** to only show current and future data.
-* Detailed **additional information**: Humidity, Wind Speed, Feels Like.
-* Responsive **hourly weather cards** with appropriate icons for different weather conditions.
-* **Day/Night icons** for better UI clarity.
-* Refresh button to fetch the latest data from the API.
+* 🌡️ Current Weather: Temperature, conditions, and feels-like temperature.
+* 📅 3-Hour Forecast: Shows the next 6 forecast intervals, filtering out past data.
+* 🏙️ Multiple Cities: Choose between Kolkata, Mumbai, Delhi, Bengaluru, Chennai.
+* 💧 Additional Info: Humidity, wind speed, day/night icons.
+* 🔄 Refresh Button: Fetch the latest data instantly.
+* 🎨 Clean UI: Responsive hourly weather cards with relevant weather icons.
 
 ---
 
@@ -20,3 +19,8 @@ A **Flutter Weather App** that fetches current weather and 3-hour interval forec
 
 ![Screenshot](githubPics/weather_app.jpeg)
 ![Video](githubPics/weather_app.mp4)
+
+---
+
+This is an educational project, built for learning and practice. Feel free to fork or use this project to learn Flutter development!
+
