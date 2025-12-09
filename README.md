@@ -1,4 +1,4 @@
-🌤️ Weather App
+# 🌤️ Weather App
 
 A Flutter Weather App that fetches real-time weather and 3-hour interval forecasts using the OpenWeatherMap API. Users can select from multiple Indian metro cities and view detailed weather insights including temperature, sky conditions, humidity, wind speed, and “feels like” temperature.
 
